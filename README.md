@@ -31,4 +31,5 @@
 <a><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/sqlite.svg" height="40" width="40" /></a>
 <a><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/django.svg" height="40" width="40" /></a>
 <a><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/docker.svg" height="40" width="40" /></a>
+<a><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/latex.svg" height="40" width="40" /></a>
 </p>
