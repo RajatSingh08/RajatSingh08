@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Online-Judge: django based project**
-- 🌱 I’m currently learning **Django: User Authentication/ DB linking with models**
+- 🌱 I’m currently learning **Django: File I/O and DB linking with models**
 - 👯 I’m looking to collaborate on **Web Developement Projects**
 - 🤔 I’m looking for help with **Databases/Backend**
 - 💬 Ask me about **DSA**
