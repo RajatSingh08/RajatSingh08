@@ -10,6 +10,7 @@
 <h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rajat-singh-0805" target="blank"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/linkedIn.svg" alt="rajat-singh-0805" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajat_singh0805" target="blank"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/instagram.svg" alt="rajat_singh0805" height="30" width="40" /></a>
 <a href="https://twitter.com/rajat_singh0805" target="blank"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/twitter.svg" alt="rajat_singh0805" height="30" width="40" /></a> 
 <a href="https://leetcode.com/rajat_singh0805" target="blank"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/leetcode.svg" alt="rajat_singh0805" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rajat_singh0805" target="blank"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/codeforces.svg" alt="rajat_singh0805" height="30" width="40" /></a>
