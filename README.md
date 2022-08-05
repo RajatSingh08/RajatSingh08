@@ -37,9 +37,9 @@
 =======
 ### Hi there 👋
 - 🔭 I’m currently working on **Online-Judge: django based project**
-- 🌱 I’m currently learning **AWS**
-- 👯 I’m looking to collaborate on **Full-Stack Web Developement Projects**
-- 🤔 I’m looking for help with **Internships**
+- 🌱 I’m currently learning **Integrating Docker to Django Project and using File I/O in Docker**
+- 👯 I’m looking to collaborate on **Web Developement Projects**
+- 🤔 I’m looking for help with **Databases/Backend**
 - 💬 Ask me about **DSA**
 - 📫 How to reach me: **rajatsingh0805@gmail.com,   +91-8756556999**
 - ⚡ Fun fact: **Conqueror Level BGMI player😄**
