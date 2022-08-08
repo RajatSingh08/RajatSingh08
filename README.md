@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Online-Judge: django based project**
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS EC2 Deployement**
 - 👯 I’m looking to collaborate on **Full-Stack Web Developement Projects**
 - 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about **DSA**
