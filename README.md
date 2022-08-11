@@ -18,8 +18,8 @@
 
 <h3 align="left">Programming Languages/Frameworks:</h3>
 <p align="left">
-<a hfref="https://cplusplus.com/"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/cpp.svg" height="40" width="40" /></a>
-<a href=""><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/c.svg" height="40" width="40" /></a>
+<a href="https://cplusplus.com/"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/cpp.svg" height="40" width="40" /></a>
+<a href="https://cplusplus.com/"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/c.svg" height="40" width="40" /></a>
 <a href="https://www.python.org/"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/python.svg" height="40" width="40" /></a>
 <a href="https://www.java.com/"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/java.svg" height="40" width="30" /></a>
 <a href="https://git-scm.com/"><img align="center" src="https://github.com/RajatSingh08/RajatSingh08/blob/main/icons/git.svg" height="40" width="40" /></a>
