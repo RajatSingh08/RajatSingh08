@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Online-Judge: django based project**
-- 🌱 I’m currently learning **AWS EC2 Deployement**
+- 🌱 I’m currently learning **PostgreSQL and DSA/CP**
 - 👯 I’m looking to collaborate on **Full-Stack Web Developement Projects**
 - 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about **DSA**
 - 📫 How to reach me: **rajatsingh0805@gmail.com,   +91-8756556999**
-- ⚡ Fun fact: **Conqueror Level BGMI player😄**
+- ⚡ Fun fact: **Conqueror Level BGMI player😄, Max AIR: 46 	:sunglasses: **
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
