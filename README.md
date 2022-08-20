@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Online-Judge: django based project**
+- 🔭 I’m currently working on **Geek-Judge: django based project**
 - 🌱 I’m currently learning **PostgreSQL and DSA/CP**
 - 👯 I’m looking to collaborate on **Full-Stack Web Developement Projects**
 - 🤔 I’m looking for help with **Internships**
