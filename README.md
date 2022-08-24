@@ -10,7 +10,7 @@
 
 
 ### Live Projects:
-- <a href="http://www.geekjudge.com"><b>www.geekjudge.com</b></a> : Online Judge that accepts a solution and judges it as Accepted, Compilation Error, Runtime Error, Time Limit Exceeded or Wrong Answer.
+:link: <a href="http://www.geekjudge.com"><b>www.geekjudge.com</b></a> : Online Judge that accepts a solution and judges it as Accepted, Compilation Error, Runtime Error, Time Limit Exceeded or Wrong Answer.
 </p>
 
 
